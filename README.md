@@ -1,2 +1,2 @@
-# Python-ML-reviews
+# Python-ML
 Reviews of machine learning classes
